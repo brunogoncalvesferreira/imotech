@@ -12,7 +12,7 @@ Aplicação web criado com o ituito de mostrar como funciona o React.
 ## Getting Started
 
 1. **Clonar repo**: `https://github.com/brunogoncalvesferreira/imotech.git`
-2. **Instalar as dependencias**: `npm install run`
+2. **Instalar as dependencias**: `npm install`
 3. **Start frontend**: `npm run dev`
 4. **Start json-server**: `npm run dev:server`
 5. **Acesse em seu navegador**: `http://localhost:5173`
