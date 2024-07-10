@@ -1,24 +1,24 @@
-# ImoTech
+<!--- # "Can be a image or a gift from the project pages" -->
+# ImoTEch
 
-Aplicação web para uma imobiliária 
+Aplicação web criado com o ituito de mostrar como funciona o React.
 
-O ituito era mostrar como funciona o React js
+## Tech Stack
 
-## Tecnologias
- - React js
- - Vite js
- - Tailwindcss
- - Json server
- - Lucide icons
- - Axios
- - React Router Dom
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
- ## Para rodar a aplicação
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite)](https://skillicons.dev)
 
- ```bash
-  // frontend
-  npm run dev
+## Getting Started
 
-  // rodar json server
-  npm run dev:server
- ```
+1. **Clonar repo**: `https://github.com/brunogoncalvesferreira/imotech.git`
+2. **Instalar as dependencias**: `npm install run`
+3. **Start frontend**: `npm run dev`
+4. **Start json-server**: `npm run dev:server`
+5. **Acesse em seu navegador**: `http://localhost:5173`
+
+## License
+
+This software is available under the following licenses:
+
+- [MIT](https://github.com/brunogoncalvesferreira/dogs-api?tab=MIT-1-ov-file)
