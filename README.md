@@ -21,4 +21,4 @@ Aplicação web criado com o ituito de mostrar como funciona o React.
 
 This software is available under the following licenses:
 
-- [MIT](https://github.com/brunogoncalvesferreira/dogs-api?tab=MIT-1-ov-file)
+- [MIT](https://github.com/brunogoncalvesferreira/imotech?tab=MIT-1-ov-file)
