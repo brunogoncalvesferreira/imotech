@@ -9,6 +9,9 @@ Aplicação web criado com o ituito de mostrar como funciona o React.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite)](https://skillicons.dev)
 
+## Layout Figma
+Veja o layout do projeto no [Figma](https://www.figma.com/design/KtZcxXf74ZwLXSR4qzao3Z/ImoTech?node-id=0-1&t=pbyMWqY0XuAUuSmG-0)
+
 ## Getting Started
 
 1. **Clonar repo**: `https://github.com/brunogoncalvesferreira/imotech.git`
